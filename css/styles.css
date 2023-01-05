@@ -1,0 +1,122 @@
+body{
+    color:#40514E ;
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Caramel', cursive;
+    
+    
+}
+p{
+    font-family: 'tapestry', cursive;
+    line-height: 2;
+}
+h2{
+    color: #921fd9;
+    
+}
+h3{
+    color: coral;
+}
+hr{
+    width: 10%;
+    border-style:dashed #EAF6F6 20px;
+    border-bottom: none;
+    
+}
+.photo{
+    margin: 20px auto auto auto;
+}
+
+.top{
+     background-color: #0fe1de;
+     position: relative;
+     padding-top: 100px;
+}
+.skill-row{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-img{
+    width: 45%;
+    float: left;
+    margin-right: 30px;
+}
+.design{
+    width:25%;    
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #921fd9);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #921fd9);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #921fd9);
+    background-image: -o-linear-gradient(top, #3cb0fd, #921fd9);
+    background-image: linear-gradient(to bottom, #3cb0fd, #921fd9);
+    text-decoration: none;
+  }
+
+   
+
+.bottom-container{
+    margin: 60px auto auto auto;
+    background-color: #0fe1de;
+    padding: 50px 0 20px;
+     
+    
+}
+.last{
+    color: #921fd9;
+}
+.end{
+    line-height: 3;
+    width: 50%;
+    margin: auto;
+}
+.k{
+    text-decoration:underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 310px;
+
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+a{
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #921fd9;
+}
+.copyright{
+    font-size: 0.75rem;
+}
